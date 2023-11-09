@@ -1,2 +1,4 @@
 # ISLP_Solution_Jupyter_Files
-Mr. Simpson, this is the most blatant case of fraudulent advertising since my suit against the film, "The Never-Ending Story"
+- My solutions for the applied exercises in Introduction to Statistical Learning with applications in Python
+
+- Absolutely no guarantees as to accuracy, this is for my own self-learning more than anything.
